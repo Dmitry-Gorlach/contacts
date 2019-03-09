@@ -1,6 +1,6 @@
 package com.itechart.stlab.contacts.dao;
 
-import com.itechart.stlab.contacts.entity.*;
+import com.itechart.stlab.contacts.model.*;
 import com.itechart.stlab.contacts.exception.*;
 
 import java.util.*;
